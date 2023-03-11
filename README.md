@@ -27,3 +27,4 @@ To install the bookmarklet, drag the link to your bookmarks bar (if your bookmar
 ---
 [Ryan 'Goz' Collins](https://gozgeek.com)
 
+Have a favorite bookmarklet to add? This site is hosted [at Github](https://github.com/mrrcollins/bookmarklets)!
