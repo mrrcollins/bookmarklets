@@ -23,3 +23,7 @@ To install the bookmarklet, drag the link to your bookmarks bar (if your bookmar
 
 * [Bookmarklet Creator with Script Includer - Peter Coles](https://mrcoles.com/bookmarklet/)
 * [Bookmarkify.it - Create bookmarklets from your javascript!](https://bookmarkify.it/)
+
+---
+[Ryan 'Goz' Collins](https://gozgeek.com)
+
